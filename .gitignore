@@ -65,6 +65,7 @@ perf.data*
 # IDEs
 .vscode
 .idea
+/.vs
 
 # macOS
 .DS_Store
